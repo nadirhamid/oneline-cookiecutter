@@ -1,7 +1,7 @@
 
 ## example controller, controls your app           
 import ol
-def {{ cookcutter.repo_name }}_init(startserver=True,sql='{{ cookiecutter.repo_name }}.sql'):
+def {{ cookiecutter.repo_name }}_init(startserver=True,sql='{{ cookiecutter.repo_name }}.sql'):
   print "starting new {{ cookiecutter.repo_name }} named {{ cookiecutter.repo_name }}"
   return ol.controller_init(startserver=startserver,sql=sql)
 def {{ cookiecutter.repo_name }}_stop(stopserver=True):
