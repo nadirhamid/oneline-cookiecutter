@@ -11,7 +11,7 @@
 
 from oneline import ol
 
-class {{ cookiecutter.repo_name }}(ol.module)
+class {{ cookiecutter.repo_name }}(ol.module):
     def start(self):
         self.pipeline = ol.stream()
     
