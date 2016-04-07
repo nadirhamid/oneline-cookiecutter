@@ -1,1 +1,1 @@
-ONELINE_MODULE=module
+ONELINE_MODULE={{ cookiecutter.repo_name }}
