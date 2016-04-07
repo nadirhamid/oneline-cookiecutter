@@ -1,0 +1,15 @@
+{
+	"repo_name" : "ExampleModule",
+	"description" : "A short description of the module",
+ 	"database_name": "OnelineModule",
+	"database_user": "root",
+	"database_password": "",
+	"database_host": "localhost",
+	"online_vendor_name" : "vendorname",
+	"oneline_package_name" : "example-module",
+	"version" : "0.1.0",
+	"author_name" : "Your Name",
+	"url" : "https://github.com/...",
+	"i18n_prefix" : "{{ cookiecutter.repo_name|lower }}",
+	"license" : "GPL v2",
+}
