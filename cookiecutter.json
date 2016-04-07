@@ -11,5 +11,5 @@
 	"author_name" : "Your Name",
 	"url" : "https://github.com/...",
 	"i18n_prefix" : "{{ cookiecutter.repo_name|lower }}",
-	"license" : "GPL v2",
+	"license" : "GPL v2"
 }
