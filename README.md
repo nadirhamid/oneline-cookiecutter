@@ -40,6 +40,7 @@ Usage
 4. run 
 
 ```
+	oneline --pack 'Your Repository Name'
 	oneline --start
 ```
 
