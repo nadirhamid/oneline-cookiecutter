@@ -4,7 +4,8 @@
 # Factory created module. Edit
 # as you like 
 # @author {{ cookiecutter.author_name }}
-# @package {{ cookiecutter.oneline_package }}
+# @package {{ cookiecutter.oneline_package_name }}
+# @vendor {{ cookiecutter.oneline_vendor_name }}
 # @does {{ cookiecutter.description }}
 ##############################################################################
 
